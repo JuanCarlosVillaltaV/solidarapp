@@ -1,0 +1,5 @@
+link de colab
+https://colab.research.google.com/drive/18HM-dlVPoG816cpbyzTwmml7FMva6K1g#scrollTo=bi-I-PPRuRl0
+
+link del dataset
+https://www.kaggle.com/datasets/noeyislearning/sales-simulation
